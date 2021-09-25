@@ -1,1 +1,1 @@
-# Simplilearn_Practice_project
+# MACHINE_LEARNING_Simplilearn_Practice_project
